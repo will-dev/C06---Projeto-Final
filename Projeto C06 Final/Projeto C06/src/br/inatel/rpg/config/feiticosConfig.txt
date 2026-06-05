@@ -1,0 +1,20 @@
+Seta de Mana:12
+Faísca Elétrica:13
+Chama Menor:14
+Dardo de Gelo:15
+Toque da Névoa:16
+Fígaro Místico:17
+Rajada de Vento Cortante:18
+Orbe de Fragmentação:19
+Lança de Estalagmites:20
+Combustão Espontânea:22
+Bola de Fogo:24
+Raio de Trovão:25
+Corrente de Relâmpagos:26
+Impacto Estelar:28
+Abismo Sombrio:30
+Sopro do Dragão:32
+Pó de Diamante:35
+Meteoro Arcano:38
+Julgamento Divino:40
+Explosão de Supernova:45

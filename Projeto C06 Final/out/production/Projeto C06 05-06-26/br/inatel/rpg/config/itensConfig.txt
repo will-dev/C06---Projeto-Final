@@ -1,0 +1,15 @@
+Poção de Vida:Recupera 25 pontos de vida instantaneamente quando consumida.
+Antídoto:Cura o personagem de efeitos de envenenamento causados por inimigos.
+Escudo de Carvalho:Aumenta a chance de defesa e bloqueia parte do dano recebido.
+Cálice de Latão:Um cálice opaco com marcas de uso. Provavelmente pertenceu a alguma taverna barata.
+Dado Viciado:Um dado de osso de seis faces que sempre parece cair no número 3. Útil para apostas em tavernas.
+Insígnia Quebrada:O brasão de ferro de um antigo exército que já não existe mais. Está enferrujado.
+Pedaço de Mapa:A ponta rasgada de um mapa de couro. Mostra apenas uma árvore desenhada e um "X" borrado.
+Presa de Javali:Um dente afiado que você coletou de um monstro menor. Serve apenas como troféu de caça.
+Pote de Vidro Vazio:Um frasco de vidro limpo. Já conteve alguma poção mágica importante, agora guarda apenas ar.
+Fita de Cabelo Desbotada:Uma fita de tecido vermelho que parece ter pertencido a alguma camponesa grata pelo seu resgate.
+Cinzas de Feitiço:Um punhado de pó cinzento, o que sobrou após um pergaminho mágico queimar por completo.
+Estatueta de Madeira:Uma escultura malfeita de um dragão. O artesão claramente nunca viu um dragão de verdade.
+Carta de Recomendação Falsa:Um documento que diz que você é um herói lendário, mas a assinatura do Rei está escrita com erros de português.
+Anel da Mente:Um acessório místico que regenera mana a cada turno de combate.
+Poção de Força:Aumenta a força em 3 quando consumida.

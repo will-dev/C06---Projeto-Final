@@ -1,0 +1,35 @@
+Espada de Ferro:15
+Adaga Sombria:12
+Machado de Batalha:22
+Cajado do Aprendiz:8
+Arco Curto:14
+Lança de Torneio:18
+Martelo de Guerra:25
+Chicote de Couro:10
+Alabarda Real:20
+Flail Enferrujado:16
+Adaga de Bronze:10
+Faca de Arremesso:11
+Chicote de Espinhos:13
+Cajado de Carvalho:14
+Arco Curto:14
+Espada de Ferro:15
+Cimitarra do Deserto:16
+Flail Enferrujado:16
+Clava de Madeira:17
+Arco Longo:17
+Lança de Torneio:18
+Glaive Leve:19
+Alabarda Real:20
+Katana Afiada:21
+Tridente das Marés:21
+Machado de Batalha:22
+Espada Bastarda:23
+Montante de Aço:24
+Martelo de Guerra:25
+Cetro do Alto Mago:26
+Machado de Duas Mãos:27
+Marreta de Ferro:28
+Besta Pesada:29
+Espada Garra do Dragão:32
+Arco de Cristal:35
